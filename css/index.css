@@ -1,0 +1,11 @@
+
+body {
+    background-color:rgb(4, 200, 300);
+  }
+  h1 {
+    color:rgba(255, 255, 255, 0.603);
+  }
+  
+  #fuente-titulo {
+    font-family: system-ui;
+  }
